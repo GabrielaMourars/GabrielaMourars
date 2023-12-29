@@ -21,8 +21,7 @@ Languages and Tools:
 I'm learning:
 - Python
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gabriela-moura-amaral-474b09104" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriela-moura-amaral-474b09104?trk=profile-badge">Gabriela Moura Amaral</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gabriela-moura-amaral-474b09104" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriela-moura-amaral-474b09104?trk=profile-badge">Linkedin</a></div>
               
   
 <!--
